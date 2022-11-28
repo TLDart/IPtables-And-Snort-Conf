@@ -1,8 +1,7 @@
-# STI Ass 2 - IPTables + Snort Conf
+# IPTables + Snort Config Example
 
 ## Network Topology
 ![Net Topology](./Imgs/topology.png)
-http://blog.hakzone.info/posts-and-articles/ftp/configure-iptables-to-support-ftp-passive-transfer-mode/ 
 
 
 TCP Sockets with netcat
